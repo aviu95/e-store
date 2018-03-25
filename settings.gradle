@@ -1,0 +1,3 @@
+include 'store'
+findProject(':store')?.name = 'e-store'
+
